@@ -1,1 +1,1 @@
-# Practice
+# Number Guess Game
